@@ -1,0 +1,36 @@
+#navBar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#navElement {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+#title {
+	float: left;
+}
+
+#navLinks {
+	float: left;
+}
+h2, h1{
+	color:red;
+}
+header {
+	background-color:#dddddd;
+}
+body {
+background-color:grey;}
+p {color:black;}
+a {color:red;}
+#title {font-weight:bold;}
+#spaced {margin-top:8px;}
